@@ -16,15 +16,15 @@
 1. [Abstract](#example)
 2. [Introduction](#example2)
 3. [Getting Started](#third-example)
-4. [Steps to Develop a EBS using Java GUI](#third-example)
-5. [Electricty Billing System Usage](#third-example)
-6. [Deployment](#fourth-examplehttpwwwfourthexamplecom)
-7. [Flowchart](#sixth-exampleeforempsfsss)
+4. [Steps to Develop a EBS using Java GUI](#fourth-example)
+5. [Electricty Billing System Usage](#fifth-example)
+6. [Deployment](#sixth-examplehttpwwwfourthexamplecom)
+7. [Flowchart](#seventh-exampleeforempsfsss)
    ![Flowchart](""C:\Users\komal\OneDrive\Pictures\FinalFlowchart.png"")
-8. [Contributing](#seventh-exampleeforempsfsss)
+8. [Contributing](#eighth-exampleeforempsfsss)
 
-9. [Authors](#eight-exampleeforempsfsss)
-10. [Acknowledgements](#ninth-exampleeforempsfsss)
+9. [Authors](#ninth-exampleeforempsfsss)
+10. [Acknowledgements](#tenth-exampleeforempsfsss)
 
 
 ## Abstract
@@ -84,9 +84,9 @@ BUTTONS:-In this project we have two buttons –first one is cal button which is
 
 ## Deployment
 
-![Calculate]("C:\Users\komal\OneDrive\Pictures\Calculate.png")
+![Calculate]("C:\Users\komal\OneDrive\Pictures\Calculate1.png")
 
-![Print](""C:\Users\komal\OneDrive\Pictures\Printofelectricity.png"")
+![Print](""C:\Users\komal\OneDrive\Pictures\Printofelectricity1.png"")
 
 ## Flowchart
    ![Flowchart](""C:\Users\komal\OneDrive\Pictures\FinalFlowchart.png"")
