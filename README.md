@@ -13,27 +13,27 @@
  Electricity billing payemnt system is to manage the details of electricity,bill,connections,store record ,customer.It manages all the information about electricity and customer electricity.
 
 # Table of Contents
-<a name="abstract">
-1. [Abstract](#example)</a>
-<a name="intro">
-2. [Introduction](#example2)</a>
-<a name="started">
-3. [Getting Started](#third-example)</a>
-<a name="Steps">
-4. [Steps to Develop a EBS using Java GUI](#fourth-example)</a>
-<a name="usage">
-5. [Electricty Billing System Usage](#fifth-example)</a>
-<a name="deployment">
-6. [Deployment](#sixth-examplehttpwwwfourthexamplecom)</a>
-<a name="flowchart">
+<a name="abstract"></a>
+1. [Abstract](#example)
+<a name="intro"></a>
+2. [Introduction](#example2)
+<a name="started"></a>
+3. [Getting Started](#third-example)
+<a name="Steps"></a>
+4. [Steps to Develop a EBS using Java GUI](#fourth-example)>
+<a name="usage"></a>
+5. [Electricty Billing System Usage](#fifth-example)
+<a name="deployment"></a>
+6. [Deployment](#sixth-examplehttpwwwfourthexamplecom)
+<a name="flowchart"></a>
 7. [Flowchart](#seventh-exampleeforempsfsss)
-   ![Flowchart](""C:\Users\komal\OneDrive\Pictures\FinalFlowchart.png"")</a>
+   ![Flowchart](""C:\Users\komal\OneDrive\Pictures\FinalFlowchart.png"")
    
 8. [Contributing](#eighth-exampleeforempsfsss)
-<a name="authors">
-9. [Authors](#ninth-exampleeforempsfsss)</a>
-<a name="acknowlwdge">
-10. [Acknowledgements](#tenth-exampleeforempsfsss)</a>
+<a name="authors"></a>
+9. [Authors](#ninth-exampleeforempsfsss)
+<a name="acknowlwdge"></a>
+10. [Acknowledgements](#tenth-exampleeforempsfsss)
 
 
 ## Abstract
