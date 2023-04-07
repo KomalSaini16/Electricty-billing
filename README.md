@@ -16,8 +16,8 @@
 1. [Abstract](#Abstract)
 2. [Introduction](#Introduction)
 3. [Getting Started](#GettingStarted)
-4. [Steps to Develop a EBPS using Java GUI](#StepstoDevelopaEBPSusingJavaGUI)>
-5. [Electricty Billing System Usage](#ElectrictyBillingSystemUsage)
+4. [Steps to Develop a EBPS using Java GUI](#Steps to Develop a EBPS using Java GUI)>
+5. [Electricty Billing System Usage](#Electricty Billing System Usage)
 6. [Deployment](#Deployment)
 7. [Flowchart](#Flowchart)
    ![Flowchart](""C:\Users\komal\OneDrive\Pictures\FinalFlowchart.png"")
