@@ -13,27 +13,18 @@
  Electricity billing payemnt system is to manage the details of electricity,bill,connections,store record ,customer.It manages all the information about electricity and customer electricity.
 
 # Table of Contents
-<a name="abstract"></a>
-1. [Abstract](#example)
-<a name="intro"></a>
-2. [Introduction](#example2)
-<a name="started"></a>
-3. [Getting Started](#third-example)
-<a name="Steps"></a>
-4. [Steps to Develop a EBS using Java GUI](#fourth-example)>
-<a name="usage"></a>
-5. [Electricty Billing System Usage](#fifth-example)
-<a name="deployment"></a>
-6. [Deployment](#sixth-examplehttpwwwfourthexamplecom)
-<a name="flowchart"></a>
-7. [Flowchart](#seventh-exampleeforempsfsss)
+1. [Abstract](#Abstract)
+2. [Introduction](#Introduction)
+3. [Getting Started](#GettingStarted)
+4. [Steps to Develop a EBPS using Java GUI](#StepstoDevelopaEBPSusingJavaGUI)>
+5. [Electricty Billing System Usage](#ElectrictyBillingSystemUsage)
+6. [Deployment](#Deployment)
+7. [Flowchart](#Flowchart)
    ![Flowchart](""C:\Users\komal\OneDrive\Pictures\FinalFlowchart.png"")
    
-8. [Contributing](#eighth-exampleeforempsfsss)
-<a name="authors"></a>
-9. [Authors](#ninth-exampleeforempsfsss)
-<a name="acknowlwdge"></a>
-10. [Acknowledgements](#tenth-exampleeforempsfsss)
+8. [Contributing](#Contributing)
+9. [Authors](#Authors)
+10. [Acknowledgements](#Acknowledgements)
 
 
 ## Abstract
