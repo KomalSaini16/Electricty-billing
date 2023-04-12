@@ -6,8 +6,7 @@
 
 
 
-
-![EBPS](C:\Users\komal\OneDrive\Pictures\all2.png)
+![bg width:1000px](./all2.png)
 
 
  Electricity billing payemnt system is to manage the details of electricity,bill,connections,store record ,customer.It manages all the information about electricity and customer electricity.
