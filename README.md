@@ -83,9 +83,9 @@ BUTTONS:-In this project we have two buttons –first one is cal button which is
 
 ## Deployment
 
-![bg width:700px](./Calculate1.png)
+![bg width:600px](./Calculate1.png)
 
-![bg width:700px](./Printofelectricity1.png)
+![bg width:600px](./Printofelectricity1.png)
 
 ## Flowchart
     ![bg width:1000px](./FinalFlowchart.png)
