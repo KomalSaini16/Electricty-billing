@@ -19,7 +19,7 @@
 5. [Electricty Billing System Usage](#Electricty_Billing_System_Usage)
 6. [Deployment](#Deployment)
 7. [Flowchart](#Flowchart)
-   ![Flowchart](""C:\Users\komal\OneDrive\Pictures\FinalFlowchart.png"")
+  ![bg width:1000px](./FinalFlowchart.png)
    
 8. [Contributing](#Contributing)
 9. [Authors](#Authors)
@@ -83,12 +83,12 @@ BUTTONS:-In this project we have two buttons –first one is cal button which is
 
 ## Deployment
 
-![Calculate]("C:\Users\komal\OneDrive\Pictures\Calculate1.png")
+![bg width:1000px](./Calculate1.png)
 
-![Print](""C:\Users\komal\OneDrive\Pictures\Printofelectricity1.png"")
+![bg width:1000px](./Printofelectricity1.png)
 
 ## Flowchart
-   ![Flowchart](""C:\Users\komal\OneDrive\Pictures\FinalFlowchart.png"")
+    ![bg width:1000px](./FinalFlowchart.png)
 
 
  [MongoDB ](#example)-Database
