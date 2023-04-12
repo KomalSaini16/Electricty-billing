@@ -19,7 +19,7 @@
 5. [Electricty Billing System Usage](#Electricty_Billing_System_Usage)
 6. [Deployment](#Deployment)
 7. [Flowchart](#Flowchart)
-  ![bg width:1000px](./FinalFlowchart.png)
+
    
 8. [Contributing](#Contributing)
 9. [Authors](#Authors)
