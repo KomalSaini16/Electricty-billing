@@ -15,7 +15,7 @@
 1. [Abstract](#Abstract)
 2. [Introduction](#Introduction)
 3. [Getting Started](#GettingStarted)
-4. [Steps to Develop a EBPS using Java GUI](#Steps_to_Develop_a_EBPS_using_Java_GUI)>
+4. [Steps to Develop a EBPS using Java GUI](#Steps_to_Develop_a_EBPS_using_Java_GUI)
 5. [Electricty Billing System Usage](#Electricty_Billing_System_Usage)
 6. [Deployment](#Deployment)
 7. [Flowchart](#Flowchart)
